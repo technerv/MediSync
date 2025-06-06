@@ -1,4 +1,4 @@
-MediSync HMIS – Streamlined Healthcare, Smarter Management
+#MediSync HMIS – Streamlined Healthcare, Smarter Management
 
 MediSync HMIS is a comprehensive, user-friendly Health Management Information System designed to digitize, simplify, and optimize healthcare operations. Tailored for hospitals, clinics, and medical centers, MediSync empowers healthcare professionals to efficiently manage patient records, appointments, billing, inventory, laboratory results, and reporting — all from one secure platform.
 
